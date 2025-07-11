@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)](https://github.com/exposure18/FileIntegrityMonitoring)
  
 - <b>Python</b>
-  - [MalcommandGuard](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [MalcommandGuard]()
 
 <h2> 🤳 Connect with me:</h2>
 
