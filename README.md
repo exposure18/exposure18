@@ -11,7 +11,7 @@
 <h2>👨‍💻 IoT Projects:</h2>
  
 - <b>Arduino</b>
-  - [Heart Rate Monitoring System]()
+  - [Heart Rate Monitoring System](https://github.com/exposure18/HeartRateMonitoringSystem)
 
 <h2> 🤳 Connect with me:</h2>
 
