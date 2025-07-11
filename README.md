@@ -8,7 +8,7 @@
 - <b>Python</b>
   - [MalcommandGuard]()
 
-<h2>👨‍💻 IoT Projects:</h2>
+<h2>🛰️ IoT Projects:</h2>
  
 - <b>Arduino</b>
   - [Heart Rate Monitoring System](https://github.com/exposure18/HeartRateMonitoringSystem)
