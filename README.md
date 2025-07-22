@@ -13,7 +13,7 @@
  
 - <b>Arduino</b>
   - [Heart Rate Monitoring System](https://github.com/exposure18/HeartRateMonitoringSystem)
-  - 
+    
  
 <h2>🤖 >Raspberry Pi Projects:</h2>
  
