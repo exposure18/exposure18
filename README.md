@@ -8,19 +8,14 @@
 - <b>Python</b>
   - [MalcommandGuard](https://github.com/exposure18/MalCommandGuard)
   - [PacketSniffer](https://github.com/exposure18/PacketSniffer)
+  - - [Deep Learning Packet Sniffer](https://github.com/exposure18/DLPS)
 
 <h2>🛰️ IoT Projects:</h2>
  
 - <b>Arduino</b>
 
   - [Heart Rate Monitoring System](https://github.com/exposure18/HeartRateMonitoringSystem)
-    
- 
-<h2>🤖 Raspberry Pi Projects:</h2>
- 
-- <b>Raspberry Pi Operating System</b>
 
-  - [Deep Learning Packet Sniffer](https://github.com/exposure18/DLPS)
 
 
 <h2> 🤳 Connect with me:</h2>
