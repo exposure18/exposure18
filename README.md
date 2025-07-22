@@ -12,18 +12,20 @@
 <h2>🛰️ IoT Projects:</h2>
  
 - <b>Arduino</b>
+
   - [Heart Rate Monitoring System](https://github.com/exposure18/HeartRateMonitoringSystem)
     
  
 <h2>🤖 Raspberry Pi Projects:</h2>
  
 - <b>Raspberry Pi Operating System</b>
+
   - [Deep Learning Packet Sniffer](https://github.com/exposure18/DLPS)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ricky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/rickyboscorodrigues/
