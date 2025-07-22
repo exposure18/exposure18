@@ -8,7 +8,7 @@
 - <b>Python</b>
   - [MalcommandGuard](https://github.com/exposure18/MalCommandGuard)
   - [PacketSniffer](https://github.com/exposure18/PacketSniffer)
-  - - [Deep Learning Packet Sniffer](https://github.com/exposure18/DLPS)
+  - [Deep Learning Packet Sniffer](https://github.com/exposure18/DLPS)
 
 <h2>🛰️ IoT Projects:</h2>
  
