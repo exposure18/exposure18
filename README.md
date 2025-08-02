@@ -9,7 +9,7 @@
   - [MalcommandGuard](https://github.com/exposure18/MalCommandGuard)
   - [PacketSniffer](https://github.com/exposure18/PacketSniffer)
   - [Deep Learning Packet Sniffer](https://github.com/exposure18/DLPS)
-  - [An Open-Source Steganographic Framework with Multi-Layered Encryption, Masking]()
+  - [An Open-Source Steganographic Framework with Multi-Layered Encryption and Masking]()
 
 <h2>🛰️ IoT Projects:</h2>
  
