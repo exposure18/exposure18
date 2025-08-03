@@ -10,7 +10,7 @@
   - [PacketSniffer](https://github.com/exposure18/PacketSniffer)
   - [Deep Learning Packet Sniffer for Home use and Small Office](https://github.com/exposure18/DLPS)
   - [An Open-Source Steganographic Framework with Multi-Layered Encryption and Masking](https://github.com/exposure18/Steganography)
-  - [HoneyPot to trap Hackers & Bots]()
+
 
 <h2>🛰️ IoT Projects:</h2>
  
