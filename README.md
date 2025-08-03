@@ -17,7 +17,7 @@
 
 - <b>Python</b>
 
-  - [SpecterEye - Keylogger](https://github.com/exposure18/SpectreEye)
+  - [SpectreEye - Keylogger](https://github.com/exposure18/SpectreEye)
 
 <br></br>
 
