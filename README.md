@@ -13,7 +13,8 @@
 
 <br></br>
 
-<h2>👨‍💻 Ethical Hacking:</h2>
+<h2><img width="35" height="35" alt="hacker" src="https://github.com/user-attachments/assets/f25896d2-46ec-4720-879a-f047e7bb9df1" />
+ Ethical Hacking:</h2>
 
 - <b>Python</b>
 
