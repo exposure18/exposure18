@@ -13,6 +13,11 @@
   - [SpecterEye - Keylogger]()
 
 
+<h2>👨‍💻 Ethical Hacking:</h2>
+- <b>Python</b>
+ - [SpecterEye - Keylogger]()
+
+
 <h2>🛰️ IoT Projects:</h2>
  
 - <b>Arduino</b>
