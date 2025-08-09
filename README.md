@@ -19,7 +19,7 @@
 - <b>Python</b>
 
   - [SpectreEye - Keylogger](https://github.com/exposure18/SpectreEye)
-  - [SpectreEye - Wi-Fi Security]()
+  - [SpectreEye - Simple Wi-Fi Security]()
 
 <br></br>
 
