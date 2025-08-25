@@ -9,7 +9,7 @@
   - [Malware Command Guard using Machine Learning](https://github.com/exposure18/MalCommandGuard)
   - [PacketSniffer](https://github.com/exposure18/PacketSniffer)
   - [Deep Learning Packet Sniffer for Home use and Small Office](https://github.com/exposure18/DLPS)
-  - [An Open-Source Steganographic Framework with Multi-Layered Encryption and Masking](https://github.com/exposure18/Steganography)
+  
 
 <br></br>
 
