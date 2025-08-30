@@ -7,7 +7,7 @@
  
 - <b>Python</b>
   - [An Open-Source Steganographic Framework with Multi-Layered Encryption and Masking](https://github.com/exposure18/Steganography)
-  - [SpectreEye Stop Deep-Fakes: An AI-Powered Detection Tool]()
+  - [SpectreEye Stop Deep-Fakes: An AI-Powered Detection Tool](https://github.com/exposure18/DeepFakeAI)
   - [Malware Command Guard using Machine Learning](https://github.com/exposure18/MalCommandGuard)
   - [Deep Learning Packet Sniffer for Home use and Small Office](https://github.com/exposure18/DLPS)
   - [PacketSniffer](https://github.com/exposure18/PacketSniffer)
