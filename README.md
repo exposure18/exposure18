@@ -7,12 +7,13 @@
  
 - <b>Python</b>
   - [An Open-Source Steganographic Framework with Multi-Layered Encryption](https://github.com/exposure18/Steganography)
-  - [SpectreEye Live Cyber Threat Map](https://exposure18.github.io/LiveCyberThreatMap/)
   - [SpectreEye Stop Deep-Fakes: An AI-Powered Detection Tool](https://github.com/exposure18/DeepFakeAI)
   - [Malware Command Guard using Machine Learning](https://github.com/exposure18/MalCommandGuard)
   - [Deep Learning Packet Sniffer for Home use and Small Office](https://github.com/exposure18/DLPS)
   - [PacketSniffer](https://github.com/exposure18/PacketSniffer)
-  
+    
+- <b>Javascript</b>
+  - [SpectreEye Live Cyber Threat Map](https://exposure18.github.io/LiveCyberThreatMap/)
 
 <br></br>
 
@@ -24,6 +25,7 @@
   - [SpectreEye - Keylogger](https://github.com/exposure18/SpectreEye)
   - [SpectreEye - Simple Wi-Fi Security](https://github.com/exposure18/SpectreEye-WiFi-Security)
   - [SpectreEye - Car Hacking: FSK Decoder for Static Code Virtual Car](https://github.com/exposure18/RFPentestkitTool)
+ 
 
 <br></br>
 
